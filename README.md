@@ -1,2 +1,2 @@
-# Internet-Of-Things
-A compilation of IoT projects, resources and much more
+# Arduino
+A compilation of Arduino projects, resources and much more
