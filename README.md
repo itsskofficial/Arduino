@@ -1,2 +1,2 @@
 # Arduino
-A compilation of Arduino projects, resources and much more
+A compilation of Arduino projects, programs and papers
