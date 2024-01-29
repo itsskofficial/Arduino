@@ -33,7 +33,7 @@ A smart dustbin project using Arduino to sense motion and open only when motion 
 
 ## About The Project
 
-![Smart Dustbin](smart-dustbin.jpg)
+![Smart Dustbin](smart-dustbin.png)
 
 The Smart Dustbin project leverages Arduino to create an intelligent waste disposal system. The dustbin senses motion in front of it and opens only when motion is detected. After waste is thrown in, the dustbin automatically closes, providing a hands-free and efficient waste disposal solution.
 
@@ -114,4 +114,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/itsskofficia
 
 ## Acknowledgements
 
+* [Indian Life Hacker](https://www.youtube.com/@IndianLifeHacker)
 * [Arduino](https://www.arduino.cc/)
